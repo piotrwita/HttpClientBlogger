@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5656b9b2-50ec-4e64-824f-c4efc8beb8f7": {
+      "ProjectGuid": "5656b9b2-50ec-4e64-824f-c4efc8beb8f7",
+      "DisplayName": "HttpClientBlogger",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
